@@ -1,0 +1,1 @@
+# getx_localization
